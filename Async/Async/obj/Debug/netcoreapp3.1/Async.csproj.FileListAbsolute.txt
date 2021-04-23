@@ -1,0 +1,11 @@
+C:\Users\Studenti\source\repos\Async\Async\bin\Debug\netcoreapp3.1\Async.exe
+C:\Users\Studenti\source\repos\Async\Async\bin\Debug\netcoreapp3.1\Async.deps.json
+C:\Users\Studenti\source\repos\Async\Async\bin\Debug\netcoreapp3.1\Async.runtimeconfig.json
+C:\Users\Studenti\source\repos\Async\Async\bin\Debug\netcoreapp3.1\Async.runtimeconfig.dev.json
+C:\Users\Studenti\source\repos\Async\Async\bin\Debug\netcoreapp3.1\Async.dll
+C:\Users\Studenti\source\repos\Async\Async\bin\Debug\netcoreapp3.1\Async.pdb
+C:\Users\Studenti\source\repos\Async\Async\obj\Debug\netcoreapp3.1\Async.csprojAssemblyReference.cache
+C:\Users\Studenti\source\repos\Async\Async\obj\Debug\netcoreapp3.1\Async.AssemblyInfoInputs.cache
+C:\Users\Studenti\source\repos\Async\Async\obj\Debug\netcoreapp3.1\Async.AssemblyInfo.cs
+C:\Users\Studenti\source\repos\Async\Async\obj\Debug\netcoreapp3.1\Async.dll
+C:\Users\Studenti\source\repos\Async\Async\obj\Debug\netcoreapp3.1\Async.pdb
